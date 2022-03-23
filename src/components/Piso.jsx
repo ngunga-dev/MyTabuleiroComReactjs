@@ -12,8 +12,6 @@ export default function Piso(props){
             <Pecas preto={!props.preto}/>
             <Pecas preto={props.preto}/>
             <Pecas preto={!props.preto}/>
-
-           
         </div>
     )
 }

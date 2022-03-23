@@ -1,0 +1,11 @@
+.pecas {
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  border: 3px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.pecas:hover {
+  background-color: #123412;
+}
